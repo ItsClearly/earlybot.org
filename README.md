@@ -1,2 +1,5 @@
-# earlybot.org
-earlybot.org is website that's maked in vue..js!
+Earlybot.org
+==============
+
+#Earlybot.org is a WebPanel for EarlyBot!
+Soon more info about this!
